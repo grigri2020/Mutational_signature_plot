@@ -6,3 +6,4 @@ In a dataset which has more samples than you can imagine, get the mutationals si
 
 As an example in the data/output file please check this pdf generated 
 
+![](https://github.com/grigri2020/Mutational_signature_plot/blob/master/data/output/test_mutational_signature.pdf)
