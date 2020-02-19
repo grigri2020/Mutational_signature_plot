@@ -29,10 +29,10 @@ check_files<-function(df, cols_df)
 }
 
 
-"Create pdf file name"
-create_pdf<-function(time_stmp)
+"Create png file name"
+create_png<-function(time_stmp)
 {
-  file_name = paste0("Signature_", time_stmp,".pdf")
+  file_name = paste0("Signature_", time_stmp,".png")
   return(file_name)
 }
 
@@ -188,11 +188,11 @@ ordered_samples  = select_samples(ordered_sample_sig, new_df )
 #Make new colors and create pdf 
 new_colors = select_color()
 tday =find_time()
-create_pdf(tday)
+create_png(tday)
 
 
 #Create the PDF
-pdf(create_pdf(tday))
+png(create_pdf(tday))
 #order the samples as is! So convert into factors
 ordered_samples$id <- factor((ordered_samples$id), levels = as.character(unique(ordered_samples$id)))
 
