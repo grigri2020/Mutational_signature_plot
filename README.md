@@ -4,4 +4,5 @@ Objective:
 In a dataset which has more samples than you can imagine, get the mutationals signature calls.
 
 
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+As an example in the data/output file please check this pdf generated 
+![](data/output/)
