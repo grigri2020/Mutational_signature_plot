@@ -7,7 +7,7 @@ library(cowplot)
 
 #Input file for this code is:
 #ID\tSignature\tMean
-#P-00XX		1	0.456834502038147
+#P-00XX		1	0.45684502038147
 #P-00XX		3	0.135175099888683
 #M-00XX		4	0.111076246238745
 #No column header is needed. 
