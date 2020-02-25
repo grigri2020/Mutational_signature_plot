@@ -11,3 +11,6 @@ for meaningful interpretation of the mutational signatures.
 As an example in the data/output file please check this pdf generated 
 
 <img src=data/output/test_mutational_signature.png>
+
+With more number of samples(snapshot) this is what it looks like.
+<img src=data/output/
