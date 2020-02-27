@@ -12,5 +12,5 @@ As an example in the data/output file please check this pdf generated
 
 <img src=data/output/test_mutational_signature.png>
 
-With more number of samples(snapshot) this is what it looks like.The signatures less than 20 have been removed. 
+With more number of samples(snapshot) this is what it looks like.The signatures with means less than 20 have been removed. 
 <img src=data/output/Example_more_samples_signature.png>
